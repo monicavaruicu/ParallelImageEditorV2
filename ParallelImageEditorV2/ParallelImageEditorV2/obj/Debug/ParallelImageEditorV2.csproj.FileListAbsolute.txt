@@ -1,9 +1,0 @@
-D:\ParallelImageEditorV2\ParallelImageEditorV2\ParallelImageEditorV2\obj\Debug\ParallelImageEditorV2.csproj.AssemblyReference.cache
-D:\ParallelImageEditorV2\ParallelImageEditorV2\ParallelImageEditorV2\obj\Debug\ParallelImageEditorV2.Properties.Resources.resources
-D:\ParallelImageEditorV2\ParallelImageEditorV2\ParallelImageEditorV2\obj\Debug\ParallelImageEditorV2.csproj.GenerateResource.cache
-D:\ParallelImageEditorV2\ParallelImageEditorV2\ParallelImageEditorV2\obj\Debug\ParallelImageEditorV2.csproj.CoreCompileInputs.cache
-D:\ParallelImageEditorV2\ParallelImageEditorV2\ParallelImageEditorV2\bin\Debug\ParallelImageEditorV2.exe.config
-D:\ParallelImageEditorV2\ParallelImageEditorV2\ParallelImageEditorV2\bin\Debug\ParallelImageEditorV2.exe
-D:\ParallelImageEditorV2\ParallelImageEditorV2\ParallelImageEditorV2\bin\Debug\ParallelImageEditorV2.pdb
-D:\ParallelImageEditorV2\ParallelImageEditorV2\ParallelImageEditorV2\obj\Debug\ParallelImageEditorV2.exe
-D:\ParallelImageEditorV2\ParallelImageEditorV2\ParallelImageEditorV2\obj\Debug\ParallelImageEditorV2.pdb
